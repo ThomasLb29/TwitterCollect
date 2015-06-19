@@ -1,2 +1,2 @@
 # TwitterCollect
-Collect the tweets by location
+Tha aim is to collect the tweets by location
